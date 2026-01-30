@@ -4,7 +4,7 @@
   <img src="medias/banner.png" alt="Off-Grid banner" width="100%">
 </p>
 
-**off-grid-primitives** is a Rust crate that defines the core data structures and logic for the Off-Grid exchange: spot market state (L1/L2/L3), order books, matching engine, and account balances across spot, futures, and options.
+**off-grid-primitives** is a Rust crate that defines the core data structures and logic for the Off-Grid: spot market state (L1/L2/L3), order books, matching engine, and account balances across spot, futures, options, and money markets.
 
 <p align="center">
   <img src="medias/profile.png" alt="Off-Grid profile" width="120">
