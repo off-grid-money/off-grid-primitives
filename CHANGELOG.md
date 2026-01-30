@@ -20,5 +20,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - Initial release published to [crates.io](https://crates.io/crates/off-grid-primitives).
 
-[Unreleased]: https://github.com/your-org/off-grid-primitives/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/your-org/off-grid-primitives/releases/tag/v0.1.0
+[Unreleased]: https://github.com/off-grid-money/off-grid-primitives/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/off-grid-money/off-grid-primitives/releases/tag/v0.1.0
