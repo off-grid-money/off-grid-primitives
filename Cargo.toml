@@ -1,0 +1,24 @@
+[package]
+name = "off-grid-primitives"
+version = "0.1.0"
+edition = "2021"
+description = "Core data structures and logic for the Off-Grid exchange: spot market (L1/L2/L3), order books, matching engine, and account balances"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/digital-native-standard/off-grid-primitives"
+keywords = ["exchange", "trading", "orderbook", "matching-engine", "spot"]
+categories = ["data-structures", "finance"]
+
+[dependencies]
+once_cell = "1.21.3"
+serde = { version = "1.0", features = ["derive"] }
+serde_bytes = "0.11"
+thiserror = "1.0"
+blake3 = "1.5"
+ulid = { version = "1.1", features = ["serde"] }
+
+[dev-dependencies]
+postcard = { version = "1.0", features = ["alloc"] }
+rust-rocksdb = "0.26"
+tempfile = "3.12"
+
