@@ -97,7 +97,7 @@ We use GitHub issue templates for bugs and feature requests:
 - **[Bug report](.github/ISSUE_TEMPLATE/bug_report.md)** — For bugs or incorrect behavior.
 - **[Feature request](.github/ISSUE_TEMPLATE/feature_request.md)** — For new features or enhancements.
 
-Open an [issue](https://github.com/your-org/off-grid-primitives/issues) and choose the appropriate template.
+Open an [issue](https://github.com/off-grid-money/off-grid-primitives/issues) and choose the appropriate template.
 
 ---
 
